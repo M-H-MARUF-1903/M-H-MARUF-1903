@@ -10,14 +10,13 @@
 Greetings! I'm a committed full-stack developer with a vision to craft transformative digital experiences. In the dynamic world of web development, I seamlessly blend creativity and functionality to build applications that make a lasting impact. My passion lies in creating responsive and feature-rich solutions, utilizing technologies like React, Next.js, and Tailwind CSS for captivating front-end experiences. On the backend, I leverage the MERN (MongoDB, Express.js, React, Node.js) stack to architect robust and scalable solutions. Embracing a holistic approach, my goal is to bring innovative ideas to life, ensuring a seamless user experience from concept to execution. Explore some highlights from my portfolio below:
 </p>
 
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
-<a href="https://git.io/streak-stats">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF-1903&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak" />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF-1903&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 ## :mailbox: Reach me out
@@ -38,9 +37,7 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
   </a>
 </p>
 
-
 <br />
-
 
 ## 🛠️ My work
 
@@ -88,7 +85,6 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
   <p align = "center">Elevate your style with curated collections from our exclusive brand showcase. It is a brand specific shop with firebase authentication and dedicated MERN server.</p>
 </p>
 
-
 <br />
 
 ## :computer: Technologies that I know
@@ -102,14 +98,20 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
 <br/>
 
 ## :eyes: Current overview
+
 <br />
 <div align="left">
 <a href="https://www.linkedin.com/in/md-muktadirul-haque-maruf/"><img align="right" src="https://raw.githubusercontent.com/M-H-MARUF-1903/M-H-MARUF-1903/refs/heads/main/images/devCard.png"width="200" alt="M  H Maruf's Dev Card"/></a>
 </div>
 
 ### 👀 I'm passionate about Web Development and AI.
+
 ### 🌱 Currently learning and exploring Data Science.
+
 ### 💼 Actively seeking opportunities as a Full Stack Developer.
+
 ### 👯 Open to collaboration on exciting web projects.
+
 ### 💬 Ask me about anything related to Web Development.
+
 ### 📫 Reach me at md.muktadirul.haque.maruf@gmail.com.
