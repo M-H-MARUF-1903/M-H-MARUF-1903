@@ -14,9 +14,7 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF-1903&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak Stats" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M-H-MARUF-1903&theme=prussian&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 ## :mailbox: Reach me out
