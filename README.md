@@ -108,8 +108,8 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
 </div>
 
 ### 👀 I'm passionate about Web Development and AI.
-### 🌱 Currently learning and exploring Redux.
-### 💼 Actively seeking opportunities as a Web Developer.
+### 🌱 Currently learning and exploring Data Science.
+### 💼 Actively seeking opportunities as a Full Stack Developer.
 ### 👯 Open to collaboration on exciting web projects.
 ### 💬 Ask me about anything related to Web Development.
 ### 📫 Reach me at md.muktadirul.haque.maruf@gmail.com.
