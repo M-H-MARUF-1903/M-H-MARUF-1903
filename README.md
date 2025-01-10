@@ -77,7 +77,7 @@ An exclusive brand showcase with Firebase authentication and a dedicated MERN se
 
 <p align="center">
 <a href="https://m-h-maruf.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,redux,regex,latex,nextjs,gmail,heroku,jquery,netlify,vscode,npm,windows,twitter,ts&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,redux,regex,latex,nextjs,gmail,heroku,jquery,netlify,vscode,npm,windows,twitter,ts&perline=8" />
   </a>
 </p>
 
@@ -87,7 +87,7 @@ An exclusive brand showcase with Firebase authentication and a dedicated MERN se
 
 <div align="left">
   <a href="https://www.linkedin.com/in/md-muktadirul-haque-maruf/">
-    <img align="right" src="https://raw.githubusercontent.com/M-H-MARUF-1903/M-H-MARUF-1903/refs/heads/main/images/devCard.png" width="200" alt="M.H. Maruf's Dev Card" />
+    <img align="right" src="https://raw.githubusercontent.com/M-H-MARUF-1903/M-H-MARUF-1903/refs/heads/main/images/devCard.png" width="400" alt="M.H. Maruf's Dev Card" />
   </a>
 </div>
 
