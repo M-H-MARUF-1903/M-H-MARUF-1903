@@ -96,7 +96,7 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
 <br />
 <p align="center">
   <a href="https://m-h-maruf.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,nextjs,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,redux,regex,latex,nextjs,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,redux,regex,latex,nextjs,gmail,heroku,jquery,netlify,vscode&perline=5" />
   </a>
 </p>
 <br/>
