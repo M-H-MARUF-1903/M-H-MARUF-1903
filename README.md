@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-Greetings! I’m a **dedicated full-stack developer** with a passion for crafting transformative digital experiences. With a strong foundation in web development, I seamlessly combine creativity and technical expertise to deliver responsive, feature-rich applications that leave a lasting impact.  
+Greetings! I’m a **dedicated full-stack developer** with a passion for crafting transformative digital experiences. With a strong foundation in web development, I seamlessly combine creativity and technical expertise to deliver responsive, feature-rich applications that leave a lasting impact.
 
-On the front end, I specialize in creating sleek and intuitive user interfaces using technologies like React, Next.js, and Tailwind CSS. My backend expertise lies in leveraging the MERN stack (MongoDB, Express.js, React, Node.js) to design scalable and robust solutions. I am also proficient in mobile application development using React Native and Expo, creating cross-platform experiences that prioritize performance and usability. Additionally, I bring extensive experience in state management with Redux and modern database solutions like Realm DB and MongoDB.  
+On the front end, I specialize in creating sleek and intuitive user interfaces using technologies like React, Next.js, and Tailwind CSS. My backend expertise lies in leveraging the MERN stack (MongoDB, Express.js, React, Node.js) to design scalable and robust solutions. I am also proficient in mobile application development using React Native and Expo, creating cross-platform experiences that prioritize performance and usability. Additionally, I bring extensive experience in state management with Redux and modern database solutions like Realm DB and MongoDB.
 
-Beyond web and mobile development, I am actively exploring the exciting fields of data science and artificial intelligence. From machine learning to data visualization, I am continually expanding my skill set to merge my full-stack expertise with the possibilities of AI-driven technologies. My ambition is to create innovative, data-driven applications that solve real-world problems and enhance user experiences.  
+Beyond web and mobile development, I am actively exploring the exciting fields of data science and artificial intelligence. From machine learning to data visualization, I am continually expanding my skill set to merge my full-stack expertise with the possibilities of AI-driven technologies. My ambition is to create innovative, data-driven applications that solve real-world problems and enhance user experiences.
 
 By embracing a holistic approach to problem-solving, I strive to turn innovative ideas into seamless, user-centric solutions from concept to execution. Explore highlights of my work below and join me on this journey to shape the future of technology!
 
@@ -18,7 +18,7 @@ By embracing a holistic approach to problem-solving, I strive to turn innovative
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="github-readme-streak-stats-ten-ashy.vercel.app/?user=M-H-MARUF-1903&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats-ten-ashy.vercel.app?user=M-H-MARUF-1903&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak Stats" />
   </a>
 </p>
 
