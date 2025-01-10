@@ -46,9 +46,15 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
 
 <br />
 
-<p>
-As a skilled full-stack developer, I thrive in the dynamic realm of web development, seamlessly blending creativity and functionality. With expertise spanning the entire stack, I specialize in crafting responsive and feature-rich applications. From the front end, I harness the power of technologies like React, Next.js, and Tailwind CSS to deliver sleek and intuitive user interfaces. On the backend, I leverage the MERN (MongoDB, Express.js, React, Node.js) stack to architect robust and scalable solutions. Through this holistic approach, I bring ideas to life, ensuring a seamless user experience from start to finish. Here are some of my works:
-</p>
+  <p>
+    As a skilled full-stack developer, I thrive in the dynamic field of web development, where creativity meets functionality. My expertise spans the entire stack, allowing me to craft responsive and feature-rich applications that deliver exceptional user experiences.
+  </p>
+  <p>
+    On the front end, I utilize cutting-edge technologies like React, Next.js, and Tailwind CSS to design sleek and intuitive user interfaces. On the backend, I rely on the MERN stack (MongoDB, Express.js, React, Node.js) to build robust and scalable solutions. By combining these strengths, I bring ideas to life and ensure seamless integration across all layers of development.
+  </p>
+  <p>
+    Below, you’ll find a showcase of my works—projects that reflect my commitment to quality, innovation, and user-centric design.
+  </p>
 
 <br />
 
@@ -90,7 +96,7 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
 <br />
 <p align="center">
   <a href="https://m-h-maruf.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,nextjs,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,nextjs,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,redux,regex,latex,nextjs,vscode&perline=5" />
   </a>
 </p>
 <br/>
