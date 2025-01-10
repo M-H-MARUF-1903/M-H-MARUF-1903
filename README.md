@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/md-muktadirul-haque-maruf/">
-<img src="https://raw.githubusercontent.com/M-H-Maruf/M-H-Maruf/main/images/A%20WEB%20DEVELOPER.gif" />
+<img src="https://raw.githubusercontent.com/M-H-MARUF-1903/M-H-MARUF-1903/refs/heads/main/images/A%20WEB%20DEVELOPER.gif" />
 </a>
 
 ## 🚀 About me
@@ -16,7 +16,7 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
 <br />
 <p align="center">
 <a href="https://git.io/streak-stats">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak" />
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF-1903&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak" />
 </a>
 </p>
 
@@ -29,7 +29,7 @@ Greetings! I'm a committed full-stack developer with a vision to craft transform
     <img height="75" src="https://i.postimg.cc/MTDhvYr1/linked-in.png">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100093927973127">
+  <a href="https://www.facebook.com/MHMaruf1903/">
     <img height="75" src="https://i.postimg.cc/L5QwV8SX/facebook.png">
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -98,7 +98,7 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
 ## :eyes: Current overview
 <br />
 <div align="left">
-<a href="https://www.linkedin.com/in/md-muktadirul-haque-maruf/"><img align="right" src="https://raw.githubusercontent.com/M-H-Maruf/M-H-Maruf/main/images/devCard.png"width="200" alt="M  H Maruf's Dev Card"/></a>
+<a href="https://www.linkedin.com/in/md-muktadirul-haque-maruf/"><img align="right" src="https://raw.githubusercontent.com/M-H-MARUF-1903/M-H-MARUF-1903/refs/heads/main/images/devCard.png"width="200" alt="M  H Maruf's Dev Card"/></a>
 </div>
 
 ### 👀 I'm passionate about Web Development and AI.
