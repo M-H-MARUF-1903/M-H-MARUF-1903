@@ -76,8 +76,8 @@ An exclusive brand showcase with Firebase authentication and a dedicated MERN se
 # 💻 Technologies I Use
 
 <p align="center">
-  <a href="https://m-h-maruf.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,bootstrap,express,firebase,github,mongodb,react,nextjs,redux,vscode,heroku,postman&perline=8" alt="Tech Stack" />
+<a href="https://m-h-maruf.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,redux,regex,latex,nextjs,gmail,heroku,jquery,netlify,vscode,npm,windows,twitter,ts&perline=5" />
   </a>
 </p>
 
